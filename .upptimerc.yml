@@ -11,7 +11,7 @@ sites:
   - name: "Nathan's website"
     url: https://nathanp.me
   - name: Pixelframe
-    url: https://pixelframe.nathanp.me
+    url: http://pixelframe.nathanp.me
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
