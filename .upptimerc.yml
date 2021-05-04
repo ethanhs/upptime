@@ -4,6 +4,8 @@ repo: upptime
 sites:
   - name: "Ethan's website"
     url: https://ethanhs.me
+  - name: "PW manager"
+    url: https://pw.ethanhs.me
   - name: "Marc's website"
     url: https://marcdav.is
   - name: "Nathan's website"
