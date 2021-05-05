@@ -9,7 +9,7 @@ sites:
   - name: "Image host"
     url: https://i.0xe.me
   - name: "shorturls"
-    url: https://s.0xe.me
+    url: https://s.0xe.me/admin
   - name: "Marc's website"
     url: https://marcdav.is
   - name: "Nathan's website"
