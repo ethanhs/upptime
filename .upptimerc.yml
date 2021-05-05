@@ -6,6 +6,10 @@ sites:
     url: https://ethanhs.me
   - name: "PW manager"
     url: https://pw.ethanhs.me
+  - name: "Image host"
+    url: https://i.0xe.me
+  - name: "shorturls"
+    url: https://s.0xe.me
   - name: "Marc's website"
     url: https://marcdav.is
   - name: "Nathan's website"
