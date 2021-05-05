@@ -59,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/s.0xe.me",
     "slug": "shorturls",
     "status": "up",
-    "uptime": "1.63%",
-    "uptimeDay": "1.63%",
-    "uptimeWeek": "1.63%",
-    "uptimeMonth": "1.63%",
-    "uptimeYear": "1.63%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 308,
     "timeDay": 308,
     "timeWeek": 308,
     "timeMonth": 308,
     "timeYear": 308,
-    "dailyMinutesDown": {
-      "2021-05-05": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Marc's website",
