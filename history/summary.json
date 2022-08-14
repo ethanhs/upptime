@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/ethanhs.me",
     "slug": "ethan-s-website",
     "status": "up",
-    "uptime": "70.11%",
+    "uptime": "70.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "44.48%",
-    "uptimeYear": "75.57%",
+    "uptimeMonth": "47.79%",
+    "uptimeYear": "75.85%",
     "time": 309,
-    "timeDay": 119,
-    "timeWeek": 212,
-    "timeMonth": 215,
+    "timeDay": 126,
+    "timeWeek": 193,
+    "timeMonth": 211,
     "timeYear": 292,
     "dailyMinutesDown": {
       "2022-07-29": 1347,
@@ -106,8 +106,7 @@
       "2022-05-03": 1440,
       "2022-05-02": 180,
       "2022-03-21": 22,
-      "2022-02-16": 21,
-      "2021-08-14": 163
+      "2022-02-16": 21
     }
   },
   {
@@ -116,15 +115,15 @@
     "icon": "https://favicons.githubusercontent.com/pw.ethanhs.me",
     "slug": "pw-manager",
     "status": "up",
-    "uptime": "86.19%",
+    "uptime": "86.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "90.03%",
     "time": 304,
-    "timeDay": 122,
-    "timeWeek": 180,
-    "timeMonth": 225,
+    "timeDay": 104,
+    "timeWeek": 159,
+    "timeMonth": 222,
     "timeYear": 287,
     "dailyMinutesDown": {
       "2022-07-01": 63,
@@ -174,8 +173,7 @@
       "2022-02-16": 20,
       "2022-01-18": 227,
       "2021-11-28": 28,
-      "2021-10-09": 59,
-      "2021-08-14": 19
+      "2021-10-09": 59
     }
   },
   {
@@ -184,15 +182,15 @@
     "icon": "https://favicons.githubusercontent.com/i.0xe.me",
     "slug": "image-host",
     "status": "up",
-    "uptime": "85.32%",
+    "uptime": "85.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "81.34%",
     "time": 344,
-    "timeDay": 213,
-    "timeWeek": 460,
-    "timeMonth": 371,
+    "timeDay": 205,
+    "timeWeek": 262,
+    "timeMonth": 368,
     "timeYear": 339,
     "dailyMinutesDown": {
       "2022-08-03": 15,
@@ -268,8 +266,7 @@
       "2022-03-29": 171,
       "2022-03-21": 16,
       "2022-02-16": 20,
-      "2021-08-15": 16,
-      "2021-08-14": 18
+      "2021-08-15": 16
     }
   },
   {
@@ -278,18 +275,19 @@
     "icon": "https://favicons.githubusercontent.com/s.0xe.me",
     "slug": "shorturls",
     "status": "down",
-    "uptime": "74.07%",
+    "uptime": "73.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "67.03%",
+    "uptimeYear": "66.75%",
     "time": 412,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 400,
+    "timeYear": 401,
     "dailyMinutesDown": {
-      "2022-08-13": 67,
+      "2022-08-14": 76,
+      "2022-08-13": 1440,
       "2022-08-12": 1440,
       "2022-08-11": 1440,
       "2022-08-10": 1440,
@@ -414,8 +412,7 @@
       "2022-03-29": 170,
       "2022-03-21": 15,
       "2022-02-16": 19,
-      "2021-10-09": 128,
-      "2021-08-14": 18
+      "2021-10-09": 128
     }
   },
   {
@@ -424,15 +421,15 @@
     "icon": "https://favicons.githubusercontent.com/marcdav.is",
     "slug": "marc-s-website",
     "status": "up",
-    "uptime": "86.10%",
+    "uptime": "86.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "82.18%",
-    "time": 492,
-    "timeDay": 269,
-    "timeWeek": 401,
-    "timeMonth": 410,
+    "time": 491,
+    "timeDay": 274,
+    "timeWeek": 390,
+    "timeMonth": 402,
     "timeYear": 494,
     "dailyMinutesDown": {
       "2022-07-06": 1279,
@@ -502,8 +499,7 @@
       "2022-05-03": 1440,
       "2022-05-02": 179,
       "2022-02-16": 18,
-      "2021-10-09": 28,
-      "2021-08-14": 18
+      "2021-10-09": 28
     }
   },
   {
@@ -512,16 +508,16 @@
     "icon": "https://favicons.githubusercontent.com/nathanp.me",
     "slug": "nathan-s-website",
     "status": "up",
-    "uptime": "96.18%",
+    "uptime": "96.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.15%",
-    "time": 216,
-    "timeDay": 87,
-    "timeWeek": 139,
-    "timeMonth": 172,
-    "timeYear": 197,
+    "time": 215,
+    "timeDay": 86,
+    "timeWeek": 122,
+    "timeMonth": 169,
+    "timeYear": 196,
     "dailyMinutesDown": {
       "2022-05-20": 586,
       "2022-05-19": 1440,
@@ -544,8 +540,7 @@
       "2022-05-02": 179,
       "2022-03-29": 170,
       "2022-03-11": 22,
-      "2022-02-16": 17,
-      "2021-08-14": 18
+      "2022-02-16": 17
     }
   },
   {
@@ -554,18 +549,19 @@
     "icon": "https://favicons.githubusercontent.com/pixelframe.nathanp.me",
     "slug": "pixelframe",
     "status": "down",
-    "uptime": "77.53%",
+    "uptime": "77.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "71.96%",
+    "uptimeYear": "71.68%",
     "time": 181,
-    "timeDay": 60,
-    "timeWeek": 104,
-    "timeMonth": 118,
+    "timeDay": 79,
+    "timeWeek": 93,
+    "timeMonth": 116,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2022-08-13": 67,
+      "2022-08-14": 76,
+      "2022-08-13": 1440,
       "2022-08-12": 1440,
       "2022-08-11": 1440,
       "2022-08-10": 1440,
@@ -672,8 +668,7 @@
       "2022-03-29": 170,
       "2022-03-11": 21,
       "2022-02-16": 17,
-      "2021-10-09": 28,
-      "2021-08-14": 17
+      "2021-10-09": 28
     }
   }
 ]
