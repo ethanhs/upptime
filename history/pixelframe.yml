@@ -1,7 +1,7 @@
 url: http://pixelframe.nathanp.me
-status: up
-code: 200
+status: down
+code: 502
 responseTime: 141
-lastUpdated: 2022-11-15T05:40:41.986Z
+lastUpdated: 2022-11-15T06:19:21.316Z
 startTime: Sat May 01 2021 04:09:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
