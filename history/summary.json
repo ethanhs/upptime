@@ -215,7 +215,7 @@
     "timeMonth": 0,
     "timeYear": 321,
     "dailyMinutesDown": {
-      "2023-01-24": 56,
+      "2023-01-24": 63,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
       "2023-01-21": 1440,
@@ -383,7 +383,7 @@
     "timeMonth": 0,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2023-01-24": 56,
+      "2023-01-24": 63,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
       "2023-01-21": 1440,
@@ -831,7 +831,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pixelframe.nathanp.me.ico",
     "slug": "pixelframe",
     "status": "down",
-    "uptime": "57.74%",
+    "uptime": "57.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -842,7 +842,7 @@
     "timeMonth": 93,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2023-01-24": 56,
+      "2023-01-24": 63,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
       "2023-01-21": 1440,
