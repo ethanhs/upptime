@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ethanhs.me.ico",
     "slug": "ethan-s-website",
     "status": "up",
-    "uptime": "81.94%",
+    "uptime": "81.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.45%",
+    "uptimeYear": "90.72%",
     "time": 226,
-    "timeDay": 141,
-    "timeWeek": 133,
-    "timeMonth": 164,
+    "timeDay": 178,
+    "timeWeek": 142,
+    "timeMonth": 166,
     "timeYear": 195,
     "dailyMinutesDown": {
       "2022-11-25": 57,
@@ -50,8 +50,7 @@
       "2022-07-02": 1440,
       "2022-07-01": 1440,
       "2022-06-30": 1440,
-      "2022-06-29": 1440,
-      "2022-06-28": 1440
+      "2022-06-29": 1440
     }
   },
   {
@@ -60,15 +59,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pw.ethanhs.me.ico",
     "slug": "pw-manager",
     "status": "up",
-    "uptime": "85.74%",
+    "uptime": "85.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "86.96%",
     "time": 298,
-    "timeDay": 239,
-    "timeWeek": 185,
-    "timeMonth": 229,
+    "timeDay": 405,
+    "timeWeek": 206,
+    "timeMonth": 235,
     "timeYear": 295,
     "dailyMinutesDown": {
       "2023-04-10": 49,
@@ -139,18 +138,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/i.0xe.me.ico",
     "slug": "image-host",
     "status": "down",
-    "uptime": "62.17%",
+    "uptime": "62.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "34.10%",
-    "time": 314,
+    "time": 313,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 324,
+    "timeYear": 325,
     "dailyMinutesDown": {
-      "2023-06-27": 72,
+      "2023-06-28": 74,
+      "2023-06-27": 1440,
       "2023-06-26": 1440,
       "2023-06-25": 1440,
       "2023-06-24": 1440,
@@ -391,8 +391,7 @@
       "2022-07-02": 1440,
       "2022-07-01": 1440,
       "2022-06-30": 1440,
-      "2022-06-29": 1440,
-      "2022-06-28": 1440
+      "2022-06-29": 1440
     }
   },
   {
@@ -401,18 +400,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/s.0xe.me.ico",
     "slug": "shorturls",
     "status": "down",
-    "uptime": "43.97%",
+    "uptime": "43.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 340,
+    "time": 339,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-27": 72,
+      "2023-06-28": 74,
+      "2023-06-27": 1440,
       "2023-06-26": 1440,
       "2023-06-25": 1440,
       "2023-06-24": 1440,
@@ -775,8 +775,7 @@
       "2022-07-02": 1440,
       "2022-07-01": 1440,
       "2022-06-30": 1440,
-      "2022-06-29": 1440,
-      "2022-06-28": 1440
+      "2022-06-29": 1440
     }
   },
   {
@@ -785,15 +784,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/marcdav.is.ico",
     "slug": "marc-s-website",
     "status": "up",
-    "uptime": "91.08%",
+    "uptime": "91.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.94%",
+    "uptimeYear": "96.22%",
     "time": 480,
-    "timeDay": 368,
-    "timeWeek": 411,
-    "timeMonth": 366,
+    "timeDay": 416,
+    "timeWeek": 422,
+    "timeMonth": 359,
     "timeYear": 419,
     "dailyMinutesDown": {
       "2023-03-18": 444,
@@ -816,8 +815,7 @@
       "2022-07-02": 1440,
       "2022-07-01": 1440,
       "2022-06-30": 1440,
-      "2022-06-29": 1440,
-      "2022-06-28": 1440
+      "2022-06-29": 1440
     }
   },
   {
@@ -832,10 +830,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.52%",
     "time": 188,
-    "timeDay": 4809,
-    "timeWeek": 834,
-    "timeMonth": 328,
-    "timeYear": 188,
+    "timeDay": 226,
+    "timeWeek": 837,
+    "timeMonth": 329,
+    "timeYear": 189,
     "dailyMinutesDown": {
       "2023-05-23": 1223,
       "2023-05-22": 1440,
@@ -871,18 +869,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pixelframe.nathanp.me.ico",
     "slug": "pixelframe",
     "status": "down",
-    "uptime": "46.43%",
+    "uptime": "46.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.52%",
     "time": 128,
-    "timeDay": 206,
-    "timeWeek": 158,
+    "timeDay": 153,
+    "timeWeek": 156,
     "timeMonth": 134,
-    "timeYear": 120,
+    "timeYear": 121,
     "dailyMinutesDown": {
-      "2023-06-27": 73,
+      "2023-06-28": 74,
+      "2023-06-27": 1440,
       "2023-06-26": 1440,
       "2023-06-25": 1440,
       "2023-06-24": 1440,
@@ -1245,8 +1244,7 @@
       "2022-07-02": 1440,
       "2022-07-01": 1440,
       "2022-06-30": 1440,
-      "2022-06-29": 1440,
-      "2022-06-28": 1440
+      "2022-06-29": 1440
     }
   }
 ]
