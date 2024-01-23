@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ethanhs.me.ico",
     "slug": "ethan-s-website",
     "status": "up",
-    "uptime": "85.73%",
+    "uptime": "85.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 166,
-    "timeDay": 50,
-    "timeWeek": 123,
-    "timeMonth": 160,
+    "time": 165,
+    "timeDay": 75,
+    "timeWeek": 113,
+    "timeMonth": 159,
     "timeYear": 148,
     "dailyMinutesDown": {}
   },
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pw.ethanhs.me.ico",
     "slug": "pw-manager",
     "status": "up",
-    "uptime": "88.73%",
+    "uptime": "88.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.28%",
     "time": 314,
-    "timeDay": 365,
-    "timeWeek": 242,
-    "timeMonth": 259,
+    "timeDay": 280,
+    "timeWeek": 274,
+    "timeMonth": 261,
     "timeYear": 334,
     "dailyMinutesDown": {
       "2023-10-20": 30,
@@ -82,18 +82,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/i.0xe.me.ico",
     "slug": "image-host",
     "status": "down",
-    "uptime": "49.07%",
+    "uptime": "49.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 317,
+    "time": 315,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-22": 56,
+      "2024-01-23": 55,
+      "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
@@ -456,8 +457,7 @@
       "2023-01-27": 1440,
       "2023-01-26": 1440,
       "2023-01-25": 1440,
-      "2023-01-24": 1440,
-      "2023-01-23": 1440
+      "2023-01-24": 1440
     }
   },
   {
@@ -466,7 +466,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/s.0xe.me.ico",
     "slug": "shorturls",
     "status": "down",
-    "uptime": "34.70%",
+    "uptime": "34.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -477,7 +477,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-22": 56,
+      "2024-01-23": 55,
+      "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
@@ -840,8 +841,7 @@
       "2023-01-27": 1440,
       "2023-01-26": 1440,
       "2023-01-25": 1440,
-      "2023-01-24": 1440,
-      "2023-01-23": 1440
+      "2023-01-24": 1440
     }
   },
   {
@@ -850,16 +850,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/marcdav.is.ico",
     "slug": "marc-s-website",
     "status": "up",
-    "uptime": "92.94%",
+    "uptime": "92.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 394,
-    "timeDay": 377,
-    "timeWeek": 340,
-    "timeMonth": 338,
-    "timeYear": 368,
+    "timeDay": 394,
+    "timeWeek": 365,
+    "timeMonth": 341,
+    "timeYear": 369,
     "dailyMinutesDown": {
       "2023-10-20": 58,
       "2023-09-25": 63,
@@ -879,10 +879,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.63%",
     "time": 200,
-    "timeDay": 237,
-    "timeWeek": 187,
-    "timeMonth": 227,
-    "timeYear": 209,
+    "timeDay": 241,
+    "timeWeek": 217,
+    "timeMonth": 225,
+    "timeYear": 210,
     "dailyMinutesDown": {
       "2023-11-16": 1230,
       "2023-11-15": 114,
@@ -904,8 +904,7 @@
       "2023-02-17": 1440,
       "2023-02-16": 1440,
       "2023-02-15": 1162,
-      "2023-01-24": 56,
-      "2023-01-23": 3
+      "2023-01-24": 56
     }
   },
   {
@@ -914,16 +913,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pixelframe.nathanp.me.ico",
     "slug": "pixelframe",
     "status": "up",
-    "uptime": "44.66%",
+    "uptime": "44.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "47.06%",
-    "uptimeYear": "21.76%",
+    "uptimeMonth": "50.35%",
+    "uptimeYear": "22.03%",
     "time": 139,
-    "timeDay": 351,
-    "timeWeek": 215,
-    "timeMonth": 207,
-    "timeYear": 147,
+    "timeDay": 240,
+    "timeWeek": 246,
+    "timeMonth": 210,
+    "timeYear": 148,
     "dailyMinutesDown": {
       "2024-01-07": 205,
       "2024-01-06": 1440,
@@ -1211,8 +1210,7 @@
       "2023-01-27": 1440,
       "2023-01-26": 1440,
       "2023-01-25": 1440,
-      "2023-01-24": 1440,
-      "2023-01-23": 1440
+      "2023-01-24": 1440
     }
   }
 ]
