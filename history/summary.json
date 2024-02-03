@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/ethanhs.me.ico",
     "slug": "ethan-s-website",
     "status": "up",
-    "uptime": "85.88%",
+    "uptime": "85.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 163,
-    "timeDay": 50,
-    "timeWeek": 139,
+    "timeDay": 65,
+    "timeWeek": 124,
     "timeMonth": 159,
     "timeYear": 147,
     "dailyMinutesDown": {}
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pw.ethanhs.me.ico",
     "slug": "pw-manager",
     "status": "up",
-    "uptime": "88.85%",
+    "uptime": "88.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.54%",
+    "uptimeYear": "93.82%",
     "time": 314,
-    "timeDay": 253,
-    "timeWeek": 202,
-    "timeMonth": 256,
+    "timeDay": 363,
+    "timeWeek": 221,
+    "timeMonth": 260,
     "timeYear": 336,
     "dailyMinutesDown": {
       "2023-10-20": 30,
@@ -62,8 +62,7 @@
       "2023-02-07": 1440,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
-      "2023-02-04": 1440,
-      "2023-02-03": 1440
+      "2023-02-04": 1440
     }
   },
   {
@@ -72,18 +71,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/i.0xe.me.ico",
     "slug": "image-host",
     "status": "down",
-    "uptime": "48.53%",
+    "uptime": "48.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 300,
+    "time": 298,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-02": 50,
+      "2024-02-03": 49,
+      "2024-02-02": 1440,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
@@ -446,8 +446,7 @@
       "2023-02-07": 1440,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
-      "2023-02-04": 1440,
-      "2023-02-03": 1440
+      "2023-02-04": 1440
     }
   },
   {
@@ -456,7 +455,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/s.0xe.me.ico",
     "slug": "shorturls",
     "status": "down",
-    "uptime": "34.32%",
+    "uptime": "34.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -467,7 +466,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-02": 50,
+      "2024-02-03": 50,
+      "2024-02-02": 1440,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
@@ -830,8 +830,7 @@
       "2023-02-07": 1440,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
-      "2023-02-04": 1440,
-      "2023-02-03": 1440
+      "2023-02-04": 1440
     }
   },
   {
@@ -840,14 +839,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/marcdav.is.ico",
     "slug": "marc-s-website",
     "status": "up",
-    "uptime": "93.02%",
+    "uptime": "93.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 393,
-    "timeDay": 371,
-    "timeWeek": 280,
+    "time": 392,
+    "timeDay": 344,
+    "timeWeek": 282,
     "timeMonth": 330,
     "timeYear": 366,
     "dailyMinutesDown": {
@@ -869,9 +868,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.64%",
     "time": 201,
-    "timeDay": 228,
-    "timeWeek": 191,
-    "timeMonth": 211,
+    "timeDay": 177,
+    "timeWeek": 185,
+    "timeMonth": 210,
     "timeYear": 211,
     "dailyMinutesDown": {
       "2023-11-16": 1230,
@@ -902,15 +901,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pixelframe.nathanp.me.ico",
     "slug": "pixelframe",
     "status": "up",
-    "uptime": "45.27%",
+    "uptime": "45.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.21%",
-    "uptimeYear": "24.77%",
+    "uptimeMonth": "86.50%",
+    "uptimeYear": "25.04%",
     "time": 141,
-    "timeDay": 232,
-    "timeWeek": 213,
-    "timeMonth": 220,
+    "timeDay": 318,
+    "timeWeek": 211,
+    "timeMonth": 222,
     "timeYear": 150,
     "dailyMinutesDown": {
       "2024-01-07": 205,
@@ -1188,8 +1187,7 @@
       "2023-02-07": 1440,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
-      "2023-02-04": 1440,
-      "2023-02-03": 1440
+      "2023-02-04": 1440
     }
   }
 ]
