@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ethanhs.me.ico",
     "slug": "ethan-s-website",
     "status": "up",
-    "uptime": "87.65%",
+    "uptime": "87.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 163,
-    "timeDay": 383,
-    "timeWeek": 274,
-    "timeMonth": 316,
-    "timeYear": 173,
+    "timeDay": 341,
+    "timeWeek": 315,
+    "timeMonth": 314,
+    "timeYear": 174,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pw.ethanhs.me.ico",
     "slug": "pw-manager",
     "status": "up",
-    "uptime": "84.51%",
+    "uptime": "84.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "81.91%",
+    "uptimeYear": "81.63%",
     "time": 321,
-    "timeDay": 400,
-    "timeWeek": 262,
-    "timeMonth": 269,
+    "timeDay": 277,
+    "timeWeek": 294,
+    "timeMonth": 266,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2024-06-25": 56,
+      "2024-06-26": 56,
+      "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -115,7 +116,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/i.0xe.me.ico",
     "slug": "image-host",
     "status": "down",
-    "uptime": "42.43%",
+    "uptime": "42.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -126,7 +127,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-25": 56,
+      "2024-06-26": 56,
+      "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -489,8 +491,7 @@
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
-      "2023-06-28": 1440,
-      "2023-06-27": 1440
+      "2023-06-28": 1440
     }
   },
   {
@@ -499,7 +500,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/s.0xe.me.ico",
     "slug": "shorturls",
     "status": "down",
-    "uptime": "30.01%",
+    "uptime": "29.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -510,7 +511,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-25": 56,
+      "2024-06-26": 56,
+      "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -873,8 +875,7 @@
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
-      "2023-06-28": 1440,
-      "2023-06-27": 1440
+      "2023-06-28": 1440
     }
   },
   {
@@ -883,14 +884,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/marcdav.is.ico",
     "slug": "marc-s-website",
     "status": "up",
-    "uptime": "93.86%",
+    "uptime": "93.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 389,
-    "timeDay": 292,
-    "timeWeek": 375,
+    "timeDay": 351,
+    "timeWeek": 367,
     "timeMonth": 479,
     "timeYear": 386,
     "dailyMinutesDown": {
@@ -913,9 +914,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.22%",
     "time": 226,
-    "timeDay": 363,
-    "timeWeek": 255,
-    "timeMonth": 297,
+    "timeDay": 341,
+    "timeWeek": 300,
+    "timeMonth": 300,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2024-05-07": 16,
@@ -938,14 +939,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/pixelframe.nathanp.me.ico",
     "slug": "pixelframe",
     "status": "up",
-    "uptime": "52.08%",
+    "uptime": "52.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "63.84%",
+    "uptimeYear": "64.11%",
     "time": 173,
-    "timeDay": 355,
-    "timeWeek": 255,
+    "timeDay": 343,
+    "timeWeek": 300,
     "timeMonth": 261,
     "timeYear": 187,
     "dailyMinutesDown": {
@@ -1083,8 +1084,7 @@
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
-      "2023-06-28": 1440,
-      "2023-06-27": 1440
+      "2023-06-28": 1440
     }
   }
 ]
